@@ -1,7 +1,7 @@
 {
   "name": "one",
   "version": "0.1.0",
-  "homepage": "http://IsabekovaElina.github.io/one",
+  "homepage": "https://IsabekovaElina.github.io/one-of45",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -10,6 +10,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh": "^2.8.9"
   }
 }
